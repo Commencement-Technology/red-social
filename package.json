@@ -20,7 +20,7 @@
     "image-conversion": "^2.1.1",
     "jose": "^5.2.4",
     "moment": "^2.30.1",
-    "next": "^14.2.4",
+    "next": "^14.2.10",
     "next-svgr": "^0.0.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
